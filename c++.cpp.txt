@@ -20,5 +20,4 @@ int main()
 	E = (m * v * v) / 2;
 
 	cout << "E =" << E << endl;
-	system("pause");
 }
